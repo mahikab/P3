@@ -1,0 +1,4 @@
+which: foo not found in PATH
+/usr/bin/ls
+which: exit is a built in command
+/usr/bin/echo
